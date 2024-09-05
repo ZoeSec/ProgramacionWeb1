@@ -1,0 +1,23 @@
+.clasesProgramacion{
+    font-size: medium;
+    background-color:rgb(133, 133, 238);
+    text-align: center;
+}
+.clasesCircuitos{
+    font-size: medium;
+    background-color:rgb(34, 243, 15);
+    text-align: center;
+}
+.clasesLibres{
+    font-size: medium;
+    background-color:rgb(243, 228, 15);
+    text-align: center;
+}
+.clasesSociales{
+    font-size: medium;
+    background-color:rgb(243, 99, 15);
+    text-align: center;
+}
+.alinearDias{
+    text-align: center;
+}
