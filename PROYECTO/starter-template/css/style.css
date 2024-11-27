@@ -1,0 +1,47 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+i.icon-red {
+    color: red;
+}
+
+/* Custom Stylesheet */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Asegura que el body ocupe toda la altura disponible */
+}
+
+.main-content {
+  flex: 1; /* Hace que el contenido ocupe el espacio restante */
+}
+
+footer {
+  margin-top: auto; /* Esto asegura que el footer se quede al fondo */
+}
+
+.textocentrado{
+  text-align: center;
+}
